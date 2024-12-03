@@ -11,7 +11,7 @@ It contains monthly financial data of all the companies of the S&P 500 from 1990
 To create the dataset, PERMNO codes were obtained using the "permno_code_sp500.ipynb" notebook. The code connects to WRDS's servers to query data. Next, the financial ratios and stocks prices on the CRSP platform and aggregated.
 
 The final dataset contains, among others, the cash flow to price ratio (`cfp`), the stock price (`PRC`) and market cap (`mcap`) for each company of the S&P 500 for each month (see image).
-![dataset](dataset.png)
+![dataset](images/dataset.png)
 
 # Methodology
 - Every month, companies are sorted by CF/P ratio and put into 5 groups of equal size (5 quantiles).
@@ -22,7 +22,7 @@ The final dataset contains, among others, the cash flow to price ratio (`cfp`), 
 
 The returns are plottend on the top graph and the portfolio values on the bottom ones. 
 
-![result](resultplot.png)
+![result](images/resultplot.png)
 
 The Q1 portfolio corresponds to the one with the lowest Cash Flow to Price ratio. We see that companies with high CF/P ratio are a lot less attractive to investors even thought it generally indicates a substantial amount of cash generated relative to its market price.
 
