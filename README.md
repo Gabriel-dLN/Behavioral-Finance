@@ -18,6 +18,8 @@ The final dataset contains, among others, the cash flow to price ratio (`cfp`), 
 - Portfolios are formed based on the quantile groupings (e.g., Q1, Q2, ..., Q5).
 - The 5 portfolio returns are computed by weighting stocks by their market capitalization in the portfolio, held for 1 month, and rebalanced every month.
 
+This method is implemented in the "project.ipynb" python notebook.
+
 ## Results - The Impact of Cash Flow to Price Ratios on S&P 500 Company Performance: A Behavioral Finance Perspective
 The returns are plotted on the top graph, and the portfolio values on the bottom ones.
 ![result](images/resultplot.png)
