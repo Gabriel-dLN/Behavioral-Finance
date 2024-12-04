@@ -20,7 +20,7 @@ The final dataset contains, among others, the cash flow to price ratio (`cfp`), 
 
 # Results
 
-The returns are plottend on the top graph and the portfolio values on the bottom ones. 
+The returns are plotted on the top graph and the portfolio values on the bottom ones. 
 
 ![result](images/resultplot.png)
 
