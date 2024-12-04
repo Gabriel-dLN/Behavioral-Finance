@@ -2,7 +2,7 @@
 Gabriel de La Noue  
 
 ## Approach  
-The goal of this study is to highlight the fact that stocks with high CF/P ratios may be undervalued due to irrational investor behavior (e.g., overconfidence or anchoring biases).  
+The goal of this study is to highlight the fact that stocks with high CF/P ratios may be undervalued due to irrational investor behavior (e.g., overconfidence or anchoring biases).
 
 ## Data Collection  
 The dataset used was queried using CRSP and WRDS.  
